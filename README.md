@@ -5,6 +5,9 @@ This is a design and technology demonstration, not a live business website. All 
 > This entire repo, except the software licenses and this notice, was generated using Claude `opus-4.6`.
 
 
+\>>> [https://kj4ezj.github.io/affordable-mobile-tv-repair-com](https://kj4ezj.github.io/affordable-mobile-tv-repair-com) <<<
+
+
 ## What This Is
 A single-page marketing website for a mobile TV repair company, built as a proof of concept to show what can be done with modern web technologies and zero build tooling. The site is fully functional, mobile-responsive, and could be edited into a production website with minimal effort.
 
@@ -136,5 +139,5 @@ See [LICENSE](./LICENSE) and [CHANGE_LICENSE](./CHANGE_LICENSE) for the full leg
 
 
 ---
-> **_Notice_**
+> **_Notice_**  
 > This repo contains assets created in collaboration with a large language model, machine learning algorithm, or weak artificial intelligence (AI). This notice is required in some countries.
